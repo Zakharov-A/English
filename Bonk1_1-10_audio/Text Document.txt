@@ -1,0 +1,15 @@
+page 28.
+page 41.
+page 59.
+page 51 time 3:31
+page 61 time 0:30 (audio file 5, 42-48)
+page 67 time 0:30 (audio file 6, 49-58)
+page 75 time 00:00 (audio file 7, 59-79)
+page 83 time 00:01:50 (audio file 7, 59-79)
+page 92 time 05:37 (audio file 7, 59-79)
+page 101 time 01:45 (audio file 8, 81-98)
+page 106 time 03:51 (audio file 8, 81-98)
+
+
+
+
