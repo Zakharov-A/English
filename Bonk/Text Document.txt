@@ -10,6 +10,7 @@ page 92 time 05:37 (audio file 7, 59-79)
 page 101 time 01:45 (audio file 8, 81-98)
 page 106 time 03:51 (audio file 8, 81-98)
 page 107 time 04:10 (audio file 8, 81-98)
+page 112 time 07:40 (audio file 8, 81-98)
 
 
 
